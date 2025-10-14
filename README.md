@@ -22,7 +22,7 @@ My technological skills are pretty much non-existent. I've always been more of a
 
 ---
 
-## 📬 Contact & Socials
+## 📬 Contact & Socialsj
 
 - 📧 **Email:** dustinnthewind1995@gmail.com
 - 🕵️‍♂️ **Online Alias:** BusterHymen
@@ -39,3 +39,6 @@ My technological skills are pretty much non-existent. I've always been more of a
 ---
 
 Thanks for stopping by!  
+
+# USDC-pay
+
