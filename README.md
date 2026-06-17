@@ -25,8 +25,7 @@ My technological skills are pretty much non-existent. I've always been more of a
 
 ## 📬 Contact & Socials
 
-- 📧 **Email:** #(personal)strouddustinn@gmail.com
--               #(business)dustinn@dustinnstroud.com
+- 📧 **Email:** (personal)strouddustinn@gmail.com // (business)dustinn@dustinnstroud.com
 - 🕵️‍♂️ **Online Alias:** BusterHymen
 - 📸 **Instagram:** [@dustinnwith2ns](https://instagram.com/dustinnwith2ns)
 - 🦊 **MetaMask Wallet (Ethereum/USDC):** `0xc5a044eF36014c66887BAD57e4B56545ed29B5dD`  
