@@ -42,6 +42,3 @@ My technological skills are pretty much non-existent. I've always been more of a
 ---
 
 Thanks for stopping by!  
-
-# USDC-pay
-
