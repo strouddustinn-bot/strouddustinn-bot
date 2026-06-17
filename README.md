@@ -17,7 +17,7 @@ My technological skills are pretty much non-existent. I've always been more of a
 
 ## 🚀 Current Projects
 
-- AgentPulse (Light-weight Self-Remediating Agent for Servers of ALL Sizes)
+- AgentPulse (Lightweight Self-Remediating Agent for Servers of ALL Sizes)
 - Adonis (Autonomous&Self-Improving Agentic Assistant)
 - Ouroboros (6-Pillar Endlessly Evolving Infrastructure)
 
