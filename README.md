@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Dustinn
 
-Skilled woodworker of 13 years, now attempting to broaden my horizons into the world of web development. It's been a slow process as I have thus far been totally self-taught, with only hands-on learning and no guidance. But I am gradually getting the hang of it (I hope) and I am plotting my revenge on the internet for having its way with me.
+Skilled woodworker of 13 years, now attempting to broaden my horizons into the world of web development. It's been a slow process as I have thus far been totally self-taught, with only hands-on learning and no guidance. But I am gradually getting the hang of it (I hope), and I am plotting my revenge on the internet for having its way with me.
 
 Any and all advice would be accepted with open arms and **MUCH** appreciation!
 
